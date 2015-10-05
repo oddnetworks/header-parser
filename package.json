@@ -11,6 +11,10 @@
   "files": [
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oddnetworks/header-parser.git"
+  },
   "devDependencies": {
     "lodash": "^3.10.1",
     "mock-express-request": "^0.1.1",
